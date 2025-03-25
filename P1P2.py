@@ -1,3 +1,4 @@
+#https://raw.githubusercontent.com/plotly/Figure-Friday/main/2024/week-32/irish-pay-gap.csv
 import dash
 from dash import dcc, html, Input, Output, State
 import dash_bootstrap_components as dbc
